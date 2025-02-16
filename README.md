@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**s338moha/s338moha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Saad Mohammed, a first-year Computer Science student @ Toronto Metropolitan University.  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🔭 Learning Python, Java, and more along the way  
+- 🎯 Interested in software development, AI, and Cyber Security 
+- 💡 Always open to new ideas and projects!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I’m Working On  
+- Course projects and assignments  
+- Building small projects to practice coding  
+
+## 📫 How to Reach Me  
+- Email: [saad.moha256@gmail.com]  
+- LinkedIn: [linkedin.com/in/saadmohammed](https://www.linkedin.com/in/saad-mohammed-7a2735319/)  
+
+## 📊 GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+
+---
+
+Feel free to check out my repos and connect. 😃
