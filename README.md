@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Saad Mohammed
 
-I'm a first-year Computer Science student @ Toronto Metropolitan University.  
+I'm a Second-year Computer Science student @ Toronto Metropolitan University.  
 
 ## 🚀 About Me  
 - 🔭 Learning Python, Java, and more along the way  
